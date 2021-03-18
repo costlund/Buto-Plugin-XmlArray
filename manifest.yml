@@ -1,0 +1,18 @@
+version: 1.0.0
+history:
+  1.0.0:
+    date: '2021-03-18'
+    title: 'First version.'
+    description: 'Manifest created.'
+plugin: {  }
+sys:
+  -
+    name: mercury
+    version:
+      - '1.0'
+php:
+  - '7.2'
+author: null
+links: null
+description: ''
+third_part_software: null
